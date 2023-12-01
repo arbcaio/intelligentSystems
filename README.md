@@ -1,5 +1,8 @@
-# intelligentSystems
+# Overview
 This repository contains exercises from the Intelligent Systems course, focusing on the application of genetic algorithms. The exercises are implemented using the p5.js library, a JavaScript library that makes coding accessible for artists, designers, educators, and beginners.
+
+# Team members
+Caio Henrique Araujo Braga (chab@cin.ufpe.br)
 
 # Getting Started
 This section guides you on how to run the exercises from the Intelligent Systems course. There are two main ways to run the exercises: using the p5.js Web Editor or locally with Visual Studio Code.
